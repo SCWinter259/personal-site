@@ -1,12 +1,9 @@
-[data-md-color-scheme="test"] {
-    --md-primary-fg-color:        #EE0F0F;
-    --md-primary-fg-color--light: #ECB7B7;
-    --md-primary-fg-color--dark:  #90030C;
-}
-
 [data-md-color-scheme="test2"] {
     --md-primary-fg-color:        #102C57;
-    --md-primary-fg-color--light: #DAC0A3;
-    --md-primary-fg-color--dark:  #EADBC8;
-    --md-primary-bg-color:        #DAC0A3;
+    --md-primary-bg-color:        #FEFAF6;
+    background: #EADBC8;
 }
+
+/* body {
+    background: #EADBC8;
+} */
