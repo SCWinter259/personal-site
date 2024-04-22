@@ -1,6 +1,8 @@
 # CS_1: The start of an array
 
-Date: April 19, 2024
+*Created: April 19, 2024*
+
+*Last modified: April 21, 2024*
 
 Ever wonder why an array (or a list, for Python pals), starts at 0? Throughout my first and second year, this question had not been on the back of my mind. Until one day, something clicked.
 
@@ -10,7 +12,7 @@ An array, as intuitive as it can be, is stored as consecutive segments of memory
 
 1. **Is it an array?** You cannot just assume that the computer knows what you are refering to is an array. You have to tell it.
 2. **Where does the array start?** It starts with a specific element, and the first byte that element has an address. This can be stored in a pointer!
-3. **Where does the array end?** It ends with an element, but instead of storing the address of that element, we add an element after that ending element. That final element is an end character, or `\0`. As for why don't we store the address of the ending element like for the starting element, that would be the topic for a bonus section.
+3. **Where does the array end?** It ends with an element, but instead of storing the address of that element, we add an element after that ending element. That final element is an end character, or `\0`. If you wonder why can't we store the address of the ending element, please see [CS_2](CS_2.md) post.
 4. **How big is each element?** You have to tell the computer that this is an array of `int`, or `double`. Usually `int` is 4 bytes, `double` is 8.
 
 Let us look at the following example:

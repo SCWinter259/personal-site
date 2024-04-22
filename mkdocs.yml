@@ -30,6 +30,9 @@ theme:
         name: Switch to light mode  
       primary: brown
       accent: blue
+  font:
+    code: Jetbrains Mono
+    text: Poppins
 
   nav:
     - Welcome: 'index.md'
