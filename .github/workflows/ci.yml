@@ -9,7 +9,7 @@ permissions:
   contents: write
 jobs:
   deploy:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -21,4 +21,5 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material
       - run: pip install "mkdocs-material[imaging]"
+      - run: apt-get install pngquant
       - run: mkdocs gh-deploy --force
