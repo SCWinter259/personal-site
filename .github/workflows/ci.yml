@@ -21,5 +21,4 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material
       - run: pip install "mkdocs-material[imaging]"
-      - run: apt-get install pngquant
       - run: mkdocs gh-deploy --force
