@@ -2,8 +2,7 @@ site_name: The Casper Show
 theme:
   name: material
 
-  icon:
-    logo: fontawesome/solid/cat
+  logo: assets/nerd-cat.svg
 
   favicon: assets/wand-magic-sparkles-solid.svg
 
@@ -51,6 +50,7 @@ plugins:
   - search
 
 extra:
+  homepage: https://scwinter259.github.io/personal-site/
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/SCWinter259
