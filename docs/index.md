@@ -10,3 +10,4 @@ Why did I choose MKDocs for this? Why do I have to write stuff and host it? Is w
 
 - Visit [About Me](./About%20Me.md) to learn ... about me :smiley:
 - See my [Blog](./My%20Blog/Blog.md) to learn about random things in my life.
+- See [My Coding Journey](./My%20Coding%20Journey.md) to see how I wander around the tech world.

@@ -36,7 +36,7 @@ theme:
   nav:
     - Welcome: 'index.md'
     - About Me: 'About Me.md'
-    - Portfolio: 'Portfolio.md'
+    - My Coding Journey: 'My Coding Journey.md'
     - My Blog:
       - Casper Blog: 'Blog.md'
       - Computer Science:
