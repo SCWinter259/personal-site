@@ -1,27 +1,5 @@
-# personal-site
+# My Personal Site
 
-All `venv` installation steps:
+## About
 
-Creates a virtual env:
-
-```sh
-python3 -m virtualenv venv
-```
-
-Get into the virtual env:
-
-```sh
-source venv/bin/activate
-```
-
-Install `mkdocs-material`:
-
-```sh
-pip install mkdocs-material
-```
-
-Install `mkdocs-material[imaging]`:
-
-```sh
-pip install "mkdocs-material[imaging]"
-```
+This repository contains my personal site. The site is more of a blog rather than an employable portfolio. Employers (or anyone, really) are welcomed to have a look though.
