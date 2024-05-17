@@ -2,6 +2,8 @@
 
 *Created: May 14, 2024*
 
+*Last Modified: May 15, 2024*
+
 *Note that $ in this article is Canadina Dollar (CAD)*
 
 Recently, I switched my phone plan provider from Fido to Freedom. Since most phone plans in Canada are unlimited calling and texting within Canada and the US, the decision basically comes down to how much do you pay for what amount of mobile data.
@@ -23,4 +25,4 @@ Seriously, I think it is common sense that long time and existing customers shou
 
 However, providers in Canada are getting away with this kind of business conduct because of the lack of competition. Rogers, Bell, Telus, and Freedom, together control **90% of the market**. I switched my provider, but I know that I will have to switch again in a year, just because all of them do not provide additional benefits to existing customers. In the end, we are just circling providers, and all of them ended up having stable customer bases despite a being bad business model. It also explains why Canada has such a high internet/phone cost compared to many other countries. The same would happen in aviation and banking.
 
-This made me realised that **authoritarianism**, although usually referred to as a political concept, actually rooted in the lack of competition. We just have a different word for it in economics: **Oligarchy**.
+Yes, Canada has a big problem of **Oligarchy** in many sectors.
