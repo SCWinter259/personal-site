@@ -6,11 +6,15 @@ My first semester of 11th grade was my first exposure to programming. For some r
 
 She realised that we sucked and switched to teaching Microsoft Excel the next semester. Unofficially, I used C++ and Codeblocks.
 
-## 2020 - :simple-python:
+## 2020 
+
+## :simple-python:
 
 September 2020 (Fall), I spent my first semester at the University of ALberta, majoring in Computing Science. I knew basically nothing but printing "hello world" in C++, which I had already forgotten. CMPUT 174 taught me **Python** programming on Wing IDE. I seriously don't understand the IDE choice. Interestingly, we were taught to make simple games with Pygame. It was pretty hard for me, but now I think if I can just have a bit more experience at the time, it would have been very enjoyable.
 
-## 2021 - :simple-visualstudiocode: | :simple-github: | :simple-ubuntu: | :simple-c: | :simple-vim:
+## 2021 
+
+## :simple-visualstudiocode: :simple-github: :simple-ubuntu: :simple-c: :simple-vim:
 
 Winter 2021 semester, CMPUT 175 was still teaching my Python. However, I spent some time messing around, and for the first time had set up **Visual Studio Code** as my main text editor! I am still using it today, much more customized than before of course.
 
@@ -22,7 +26,9 @@ Fall 2021 - my first year actually studying in Canada (I was online in Vietnam f
 
 I also first tried out HTML and CSS around Christmas. It really went no where though.
 
-## 2022 - :simple-sqlite: | :simple-mongodb: | :material-code-json: | :simple-git: | :simple-androidstudio: | :material-language-java: | :simple-markdown: | :simple-gnubash: | :simple-android: | :simple-mui: | :simple-firebase: | :simple-androidstudio: | :simple-junit5: | :simple-githubactions: | :simple-julia:
+## 2022 
+
+## :simple-sqlite: :simple-mongodb: :material-code-json: :simple-git: :simple-androidstudio: :material-language-java: :simple-markdown: :simple-gnubash: :simple-android: :simple-mui: :simple-firebase: :simple-androidstudio: :simple-junit5: :simple-githubactions: :simple-julia:
 
 Winter 2022, I took my CMPUT 291 and CMPUT 301. CMPUT 291 was about databases - we learned SQL, and together with Python, made a CLI-based app that query data from a **SQLite** database. Later in the course we also learned **MongoDB** and **JSON**. CMPUT 301 made us build an Android App with Java and Firebase, with full documentation, testing, diagrams,... Unfortunately, I was not ready for software engineering learning pace. I could barely code in this class. The only thing I learned is how to use **Git**, **Android Studio**, and some more advanced features of Github.
 
