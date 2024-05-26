@@ -1,12 +1,18 @@
-# LIFE_2: The terrible customer winbacks
+---
+date: 2024-05-15
+categories:
+  - Life
+authors:
+  - scwinter
+---
 
-*Created: May 14, 2024*
-
-*Last Modified: May 15, 2024*
-
-*Note that $ in this article is Canadina Dollar (CAD)*
+# The terrible customer winbacks
 
 Recently, I switched my phone plan provider from Fido to Freedom. Since most phone plans in Canada are unlimited calling and texting within Canada and the US, the decision basically comes down to how much do you pay for what amount of mobile data.
+
+<!-- more -->
+
+*Note that $ in this article is Canadina Dollar (CAD)*
 
 When I first came to Canada, I was unable to take on Freedom's mobile plan because my phone back then (Oppo A3s) did not accept the Freedom SIM card for some reason. The best option I could get was $50 (pre-tax) for 10 GB of data per month. Compared to Vietnam, where I came from, it was incredibly expensive. I stayed with it for about 3 years, and even bought a new phone with Fido (Samsung A53).
 
@@ -19,7 +25,7 @@ The bad experience did not stop there. It has been more than a month since the s
 Seriously, I think it is common sense that long time and existing customers should get the same or better offers than new comers. A reward for loyalty. Giving new comers better options than existing customers should normally have an adverse effect, as people know they are gonna be worse off later on. 
 
 <figure markdown="span">
-  ![Number of mobile subscribers in Canada by service provider from 2010 to 2021](../../assets/mobile_subscribers.png)
+  ![Number of mobile subscribers in Canada by service provider from 2010 to 2021](../../../assets/mobile_subscribers.png)
   <figcaption>Number of mobile subscribers in Canada by service provider from 2010 to 2021</figcaption>
 </figure>
 

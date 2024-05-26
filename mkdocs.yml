@@ -9,6 +9,7 @@ theme:
   features:
     - navigation.tabs
     # - navigation.sections
+    - navigation.indexes
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -38,9 +39,7 @@ theme:
     - About Me: 'About Me.md'
     - My Coding Journey: 'My Coding Journey.md'
     - My Blog:
-      - Casper Blog: 'Blog.md'
-      - Computer Science:
-      - Life:
+      - blog/index.md
 
 extra_css:
   - stylesheets/extra.css
@@ -48,6 +47,7 @@ extra_css:
 plugins:
   - social
   - search
+  - blog
 
 extra:
   homepage: https://scwinter259.github.io/personal-site/

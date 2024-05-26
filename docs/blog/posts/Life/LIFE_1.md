@@ -1,15 +1,21 @@
-# LIFE_1: Another layoff at BlackBerry
+---
+date: 2024-05-08
+categories:
+  - Life
+authors:
+  - scwinter
+---
 
-*Created: May 7, 2024*
-
-*Last Modified: May 8, 2024*
-
-<figure markdown="span">
-  ![The BlackBerry C Building, Waterloo](../../assets/BBHQ.jpg)
-  <figcaption>The BlackBerry C Building, Waterloo</figcaption>
-</figure>
+# Another layoff at BlackBerry
 
 Today, another layoff hit BlackBerry employees. I'm not sure if this wave is company-wide, or it is aimed specifically at employees under IVY division, working in Waterloo, Canada. Given the context of the tech job market in 2024 (or actually, also two or three years prior), a cost-cutting drive at BlackBerry should not come as a surprise. The shocking factor here is that my team got affected, earlier than anyone expected.
+
+<!-- more -->
+
+<figure markdown="span">
+  ![The BlackBerry C Building, Waterloo](../../../assets/BBHQ.jpg)
+  <figcaption>The BlackBerry C Building, Waterloo</figcaption>
+</figure>
 
 BlackBerry IVY is an amazing idea, and I say that with the belief that it could become something like Node.js on cars. It has real potential. The problem is that it is still at its infancy, not even version 1.0 yet (version 0.96 as we speak). My team was responsible for the Development Experience (DX) of IVY, and our responsibilities are:
 

@@ -14,7 +14,7 @@ And lastly, there is me! I, like my brother, also got into a highly selective hi
 
 ### Anime and Manga
 
-![Fullmetal Alchemist Brotherhood](./assets/fullmetal_alchemist_brotherhood.jpg){ align="right", width="15%", height="15%"}
+![Fullmetal Alchemist Brotherhood](./assets/fullmetal_alchemist_brotherhood.jpg){ align="right", width="10%", height="10%"}
 
 This is probably what I spent most of my time on when I was in high school. I stll love it, but I have less time now. I am more of an anime person, although I do read manga as well. I do read a bit of light novel, but never actually finished any. My favourite genre is magic/supernatural with OP main character. It sounds boring to many, but for long I had been watching anime to escape reality. 
 
@@ -22,7 +22,7 @@ Anyways I watch whatever makes me relaxed and happy. Sounds good? You can check 
 
 ### Korean and Chinese Dramas
 
-![Hospital Playlist](./assets/hospital_playlist.jpg){ align="left", width="12%", height="12%"}
+![Hospital Playlist](./assets/hospital_playlist.jpg){ align="left", width="10%", height="10%"}
 
 This is something that I picked up a bit later than Anime, but also spent a goog amount of time watching in high school. My main category was romance. I only watch finished dramas with happy ending and nice rating. Same reason as in the Anime section. I favour the appearance of actress/actor over acting though.
 
