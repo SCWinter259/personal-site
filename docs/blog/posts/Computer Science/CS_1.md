@@ -1,10 +1,16 @@
-# CS_1: The start of an array
+---
+date: 2024-04-21
+categories:
+  - Computer Science
+authors:
+  - scwinter
+---
 
-*Created: April 19, 2024*
-
-*Last modified: April 21, 2024*
+# The start of an array
 
 Ever wonder why an array (or a list, for Python pals), starts at 0? Throughout my first and second year, this question had not been on the back of my mind. Until one day, something clicked.
+
+<!-- more -->
 
 It involves something called the ***pointer***. You might have heard of it if you have used a low-level language like C. Basically, it is a variable that stores a memory address. The computer can then use that address and retrieve data.
 

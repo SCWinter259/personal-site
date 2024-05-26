@@ -1,8 +1,17 @@
-# CS_2: Why do we use the ending character `/0`
+---
+date: 2024-04-21
+categories:
+  - Computer Science
+authors:
+  - scwinter
+---
 
-*Created: April 21, 2024*
+
+# Why do we use the ending character `/0`
 
 In [CS_1](CS_1.md), we answered the question of why in most programming languages, the index of a list or an array starts from 0, not 1. However, one unanswered question was why do we have to use the `\0` character to mark the end of the array, and not just caching the address of the actual last element?
+
+<!-- more -->
 
 The reason lies in the bits and bytes. Basic information: a ***bit*** can be 0 or 1, and a ***byte*** is a group of 8 bits. Each byte in the computer memory will have a different address.
 
