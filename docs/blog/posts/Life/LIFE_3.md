@@ -1,6 +1,7 @@
 ---
-date: 2024-05-27
-date_updated: 2024-05-28
+date: 
+  created: 2024-05-27
+  updated: 2024-05-31
 categories:
   - Life
 authors:
@@ -24,6 +25,12 @@ I usually order 2 **buddy burgers** for a random lunch, because they are incredi
 The most notable thing about this burger chain is, ironically, its drink - the **root beer** in particular. The A&W root beer is so good that it dominates the root beer market *outside* of the restaurant, and I think you might want to check it out.
 
 ## Booster Juice
+
+![Booster Juice](../../../assets/fastfood_chains/Booster_Juice.png)
+
+Booster Juice was the first chain in this list that I had the chance to try in Canada. Ironically, I did not know it was a fastfood chain (it should have seemed obvious enough though), and did not intend to try it out. August 19, 2021, I landed at Vancouver Airport, and really needed something to drink through lunch. I wanted to choose something interesting because I had 6 hours of transit and do nothing.
+
+I did not remember what I ordered, but it was bad. Maybe it was just my taste. It was too much sour, a fruit drink that felt like raw fruit juice. Maybe many people like it, I don't know. In Vietnam, we have far better options at much cheaper prices. They may have a bit of sugar, but somehow still feel more natural than Booster Juice. I never went to Booster Juice again, at least up until I write this line, which is more than 3 years later.
 
 ## Burger King
 
