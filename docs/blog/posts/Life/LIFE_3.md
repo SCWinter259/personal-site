@@ -34,7 +34,19 @@ I did not remember what I ordered, but it was bad. Maybe it was just my taste. I
 
 ## Burger King
 
+![Burger King](../../../assets/fastfood_chains/Burger_King.png)
+
+Burger King is a chain that left me a good impression many years ago, when I try out one of its location in Hanoi, Vietnam, and I was quite surprised when I hear that it is a fading chain in North America. There was probably only one location in Edmonton, and it was quite far away from where I stayed, so I never visited. It is only until recently (May 2024) that I tried it again, in Waterloo, via a Doordash order.
+
+I ordered their signature **Whopper Burger**, and although it was a bit more expensive than the big burgers from other chains, the quality was worth it. The Whopper was huge, with 2 huge meat patties that was grilled perfectly. I could tell that the meat and the grilling were all of high quality (as compared to a fastfood chain). The difference in quality just catched my eyes even before I eat. Highly recommend this item.
+
 ## Diary Queen
+
+![Dairy Queen](../../../assets/fastfood_chains/Dairy_Queen.png)
+
+I didn't really know what to expect from Dairy Queen, as there is nothing similar in Vietnam. The only I knew about the chain was that it sells ice cream or milkshake or something like that.
+
+However! The first thing i tried was home-delivered chicken tenders. They were kinda bad - dry and over-seasoned. From the second time on, I only bought ice cream (**blizzard**, specifically). They were good. My girlfriend is an ice cream enthusiast, and she said DQ ice cream is not that good, but come on it's a fastfood chain. I say they are good enough, especially for the price.
 
 ## Denny's
 
