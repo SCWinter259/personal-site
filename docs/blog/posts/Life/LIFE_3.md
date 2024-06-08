@@ -86,34 +86,140 @@ However! The first thing i tried was home-delivered chicken tenders. They were k
 
 ![Denny's](../../../assets/fastfood_chains/Dennys.png)
 
+I had dinner at Denny's once. It actually gave me a more of a cinematic-like American diner feel than a fastfood restaurant. Even the menu items. Like sure, it had burgers and chicken, but it also had sandwiches and other breakfast-type items. Maybe it's a diner chain?
+
+Anyways, the food was okay. I cannot remember what I ordered, but surely I felt nothing was really worth the price. It was with the price of a meal at a diner, but at fastfood quality.
+
+## Dixie Lee Fried Chicken
+
 ## Domino's Pizza
 
+## Edo Japan
+
+## Extreme Pita
+
+## East Side Mario's
+
+## Five Guys
+
+## Fryer's
+
+## Freshii
+
+## Firehouse Subs
+
+## Fat Burger
+
+## Greco Pizza
+
+## Godfather's Pizza
+
 ## Harvey's
+
+## Hero Certified Burgers
+
+## IHOP
+
+## Jimmy the Greek
+
+## Jimmy John's Subs
 
 ## Jollibee
 
 ## KFC
 
+## Krispy Kreme Donuts
+
+## Kelsey Original Roadhouse
+
+## Lafleur Restaurants
+
+## Little Ceasars
+
+## Manchu Wok
+
+## Mary Brown's Chicken
+
 ## McDonald's
+
+## Mrs. Fields
+
+## Marble Slab Creamery
+
+## Mr.Sub
+
+## Mucho Burrito
+
+## Montana's BBQ & Bar
+
+## Milestones Grill & Bar
 
 ## New York Fries
 
+## Orange Julius
+
 ## Panda Express
 
+## Papa John's
+
+## Pita Pit
+
+## Pizza Pizza
+
 ## Pizza Hut
+
+## Pizza Nova
+
+## Panera Bread
 
 ## Pizza 73
 
 ## Popeyes Louisiana Kitchen
 
+## Quiznos Subs
+
+## Qdoba
+
+## Robin's Donuts
+
+## Second Cup
+
+## Smitty's
+
+## St-Hubert
+
+## Shoeless Joe's
+
 ## Subway
+
+## Swiss Chalet
+
+## St Louis
+
+## Shake Shack
 
 ## Starbucks Coffee
 
 ## Taco Bell
 
+## Taco del Mar
+
+## Taco Time
+
 ## Thai Express
 
 ## Tim Hortons
 
+## The Keg
+
+## Valentine
+
 ## Wendy's
+
+## White Spot
+
+## Wild Wing
+
+## Wimpy's Diner
+
+## Yogen Fruz
