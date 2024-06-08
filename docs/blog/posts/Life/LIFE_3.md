@@ -88,7 +88,7 @@ However! The first thing i tried was home-delivered chicken tenders. They were k
 
 I had dinner at Denny's once. It actually gave me a more of a cinematic-like American diner feel than a fastfood restaurant. Even the menu items. Like sure, it had burgers and chicken, but it also had sandwiches and other breakfast-type items. Maybe it's a diner chain?
 
-Anyways, the food was okay. I cannot remember what I ordered, but surely I felt nothing was really worth the price. It was with the price of a meal at a diner, but at fastfood quality.
+Anyways, the food was okay. I cannot remember what I ordered, but surely I felt nothing was really worth the price. It was with the price of a meal at a diner, but at fastfood quality. Honestly not recommended if you value your money.
 
 ## Dixie Lee Fried Chicken
 
