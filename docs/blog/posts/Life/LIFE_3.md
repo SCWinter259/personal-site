@@ -24,6 +24,14 @@ I usually order 2 **buddy burgers** for a random lunch, because they are incredi
 
 The most notable thing about this burger chain is, ironically, its drink - the **root beer** in particular. The A&W root beer is so good that it dominates the root beer market *outside* of the restaurant, and I think you might want to check it out.
 
+## Arby's
+
+## Applebee's
+
+## Auntie Ann's
+
+## La Belle Province
+
 ## Booster Juice
 
 ![Booster Juice](../../../assets/fastfood_chains/Booster_Juice.png)
@@ -32,6 +40,12 @@ Booster Juice was the first chain in this list that I had the chance to try in C
 
 I did not remember what I ordered, but it was bad. Maybe it was just my taste. It was too much sour, a fruit drink that felt like raw fruit juice. Maybe many people like it, I don't know. In Vietnam, we have far better options at much cheaper prices. They may have a bit of sugar, but somehow still feel more natural than Booster Juice. I never went to Booster Juice again, at least up until I write this line, which is more than 3 years later.
 
+## Burger Baron
+
+## barBURRITO
+
+## Boston Pizza
+
 ## Burger King
 
 ![Burger King](../../../assets/fastfood_chains/Burger_King.png)
@@ -39,6 +53,26 @@ I did not remember what I ordered, but it was bad. Maybe it was just my taste. I
 Burger King is a chain that left me a good impression many years ago, when I try out one of its location in Hanoi, Vietnam, and I was quite surprised when I hear that it is a fading chain in North America. There was probably only one location in Edmonton, and it was quite far away from where I stayed, so I never visited. It is only until recently (May 2024) that I tried it again, in Waterloo, via a Doordash order.
 
 I ordered their signature **Whopper Burger**, and although it was a bit more expensive than the big burgers from other chains, the quality was worth it. The Whopper was huge, with 2 huge meat patties that was grilled perfectly. I could tell that the meat and the grilling were all of high quality (as compared to a fastfood chain). The difference in quality just catched my eyes even before I eat. Highly recommend this item.
+
+## Baskin-Robbins
+
+## Carl's Jr.
+
+## Chez Aston
+
+## Chicken Delight
+
+## Chipotle Mexican Grill
+
+## Chick-fil-A
+
+## Cora
+
+## Cinnabon
+
+## Coffee Time
+
+## Country Style
 
 ## Diary Queen
 
@@ -50,34 +84,142 @@ However! The first thing i tried was home-delivered chicken tenders. They were k
 
 ## Denny's
 
+![Denny's](../../../assets/fastfood_chains/Dennys.png)
+
+I had dinner at Denny's once. It actually gave me a more of a cinematic-like American diner feel than a fastfood restaurant. Even the menu items. Like sure, it had burgers and chicken, but it also had sandwiches and other breakfast-type items. Maybe it's a diner chain?
+
+Anyways, the food was okay. I cannot remember what I ordered, but surely I felt nothing was really worth the price. It was with the price of a meal at a diner, but at fastfood quality. Honestly not recommended if you value your money.
+
+## Dixie Lee Fried Chicken
+
 ## Domino's Pizza
 
+## Edo Japan
+
+## Extreme Pita
+
+## East Side Mario's
+
+## Five Guys
+
+## Fryer's
+
+## Freshii
+
+## Firehouse Subs
+
+## Fat Burger
+
+## Greco Pizza
+
+## Godfather's Pizza
+
 ## Harvey's
+
+## Hero Certified Burgers
+
+## IHOP
+
+## Jimmy the Greek
+
+## Jimmy John's Subs
 
 ## Jollibee
 
 ## KFC
 
+## Krispy Kreme Donuts
+
+## Kelsey Original Roadhouse
+
+## Lafleur Restaurants
+
+## Little Ceasars
+
+## Manchu Wok
+
+## Mary Brown's Chicken
+
 ## McDonald's
+
+## Mrs. Fields
+
+## Marble Slab Creamery
+
+## Mr.Sub
+
+## Mucho Burrito
+
+## Montana's BBQ & Bar
+
+## Milestones Grill & Bar
 
 ## New York Fries
 
+## Orange Julius
+
 ## Panda Express
 
+## Papa John's
+
+## Pita Pit
+
+## Pizza Pizza
+
 ## Pizza Hut
+
+## Pizza Nova
+
+## Panera Bread
 
 ## Pizza 73
 
 ## Popeyes Louisiana Kitchen
 
+## Quiznos Subs
+
+## Qdoba
+
+## Robin's Donuts
+
+## Second Cup
+
+## Smitty's
+
+## St-Hubert
+
+## Shoeless Joe's
+
 ## Subway
+
+## Swiss Chalet
+
+## St Louis
+
+## Shake Shack
 
 ## Starbucks Coffee
 
 ## Taco Bell
 
+## Taco del Mar
+
+## Taco Time
+
 ## Thai Express
 
 ## Tim Hortons
 
+## The Keg
+
+## Valentine
+
 ## Wendy's
+
+## White Spot
+
+## Wild Wing
+
+## Wimpy's Diner
+
+## Yogen Fruz
