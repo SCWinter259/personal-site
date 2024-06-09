@@ -1,7 +1,7 @@
 ---
 date: 
   created: 2024-05-27
-  updated: 2024-05-31
+  updated: 2024-06-09
 categories:
   - Life
 authors:
@@ -94,6 +94,12 @@ Anyways, the food was okay. I cannot remember what I ordered, but surely I felt 
 
 ## Domino's Pizza
 
+![Domino's Pizza](../../../assets/fastfood_chains/Dominos_Pizza.png)
+
+The pinnacle of cheap pizza. I have had it so many times. If, for any event, people decided that pizza will be served for free (usually the event involves students), then you bet 80% of the time it is gonna be Domino's. The quality is kinda crappy, but unless it is a pizza 3 times more expensive than theirs, you may not be able to tell the difference, as an average person.
+
+Menu is diverse, price is cheap, quality is okay enough. That is all I have to say. King of the cheap pizza segment.
+
 ## Edo Japan
 
 ## Extreme Pita
@@ -115,6 +121,10 @@ Anyways, the food was okay. I cannot remember what I ordered, but surely I felt 
 ## Godfather's Pizza
 
 ## Harvey's
+
+![Harvey's](../../../assets/fastfood_chains/Harveys.png)
+
+I ate at Harvey's once or twice before, and I must say that except for the fact that it's a Canadian chain, nothing felt special. Not even one item, and not the pricing of eny item either. Like heck, even A&W has the famous root beer that got the whole country of Canada go crazy. If it is not for the lack of competition in the Canadian market, I think Harvey's wouldn't have been that big of a chain. It is a place that, if you are near by, and hungry, and you are like "meh, whatever", then you come in. Not bad, not good, nothing special.
 
 ## Hero Certified Burgers
 
