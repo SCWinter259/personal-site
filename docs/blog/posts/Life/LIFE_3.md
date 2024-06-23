@@ -136,7 +136,25 @@ I ate at Harvey's once or twice before, and I must say that except for the fact 
 
 ## Jollibee
 
+[Jollibee](../../../assets/fastfood_chains/Jollibee.png)
+
+Jollibee, in my opinion, should be the standard of fastfood in Canada. It is the first big chain that I feel like the chain as a whole is worth your meal. I'm not even saying that the chain gives an incredible money value for your food or anything, but this is the standard. The main product is fried chicken, and although it has enough spices, enough crispiness, and the portion is big enough for the price. Wanna buy a chicken bucket? Buy at Jollibee. I don't care about the dip because I never dip my chicken, so no comments on that.
+
+I heard that there are also other products like spaghetti, but I never checked for that. If the menu is diversed, it would also be a huge plus.
+
 ## KFC
+
+[KFC](../../../assets/fastfood_chains/KFC.png)
+
+KFC was my favourite in Vietnam, so subsequenty it was the most awaited experience for me when I came to Canada. I swear it felt very disappointing. 
+
+I think I ordered it the first time in a mall in Edmonton, and the chicken drumstick was not only wimpy, but it was also of realy dark and dirty color, like it had been fried in crude oil or something. There was very little meat. The breading was wimpy but the chicken was dry. I don't know how they can do that.
+
+The next time was an Uber order in Vancouver. It looked cleaner, less dry, but still with the wimpy breading. It did not save my impression for the brand, but my mom liked it somehow.
+
+The last time was in Toronto, at a food court. This time was the most impressive. Breading was crispy, the chicken was moist, seasoning was enough. It still doesn't look appetizing though, definitely of darker color than most other franchises.
+
+Overall, I think KFC in North America is not good. The menu is very limited and nothing was really new. The pricing is fine, but I'm not quite sure if it is a good value for the food. I mean, the food quality, at best, is a hit or miss, and even that is also a sign of the crappy quality control across KFC branches. After some digging, it seems like KFC in NA has been in this spiral downwards for a decade or two. On the other hand KFC in other places (like Japan) is very popular for their quality and creative menu, so my advice is try KFC, but not in NA.
 
 ## Krispy Kreme Donuts
 
