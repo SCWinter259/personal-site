@@ -136,6 +136,12 @@ I ate at Harvey's once or twice before, and I must say that except for the fact 
 
 ## Jollibee
 
+[Jollibee](../../../assets/Jollibee.png)
+
+Jollibee, in my opinion, should be the standard of fastfood in Canada. It is the first big chain that I feel like the chain as a whole is worth your meal. I'm not even saying that the chain gives an incredible money value for your food or anything, but this is the standard. The main product is fried chicken, and although it has enough spices, enough crispiness, and the portion is big enough for the price. Wanna buy a chicken bucket? Buy at Jollibee. I don't care about the dip because I never dip my chicken, so no comments on that.
+
+I heard that there are also other products like spaghetti, but I never checked for that. If the menu is diversed, it would also be a huge plus.
+
 ## KFC
 
 ## Krispy Kreme Donuts
