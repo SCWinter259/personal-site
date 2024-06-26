@@ -24,13 +24,13 @@ I usually order 2 **buddy burgers** for a random lunch, because they are incredi
 
 The most notable thing about this burger chain is, ironically, its drink - the **root beer** in particular. The A&W root beer is so good that it dominates the root beer market *outside* of the restaurant, and I think you might want to check it out.
 
-## Arby's
+<!-- ## Arby's -->
 
-## Applebee's
+<!-- ## Applebee's -->
 
-## Auntie Ann's
+<!-- ## Auntie Ann's -->
 
-## La Belle Province
+<!-- ## La Belle Province -->
 
 ## Booster Juice
 
@@ -40,11 +40,11 @@ Booster Juice was the first chain in this list that I had the chance to try in C
 
 I did not remember what I ordered, but it was bad. Maybe it was just my taste. It was too much sour, a fruit drink that felt like raw fruit juice. Maybe many people like it, I don't know. In Vietnam, we have far better options at much cheaper prices. They may have a bit of sugar, but somehow still feel more natural than Booster Juice. I never went to Booster Juice again, at least up until I write this line, which is more than 3 years later.
 
-## Burger Baron
+<!-- ## Burger Baron -->
 
-## barBURRITO
+<!-- ## barBURRITO -->
 
-## Boston Pizza
+<!-- ## Boston Pizza -->
 
 ## Burger King
 
@@ -54,25 +54,25 @@ Burger King is a chain that left me a good impression many years ago, when I try
 
 I ordered their signature **Whopper Burger**, and although it was a bit more expensive than the big burgers from other chains, the quality was worth it. The Whopper was huge, with 2 huge meat patties that was grilled perfectly. I could tell that the meat and the grilling were all of high quality (as compared to a fastfood chain). The difference in quality just catched my eyes even before I eat. Highly recommend this item.
 
-## Baskin-Robbins
+<!-- ## Baskin-Robbins -->
 
-## Carl's Jr.
+<!-- ## Carl's Jr. -->
 
-## Chez Aston
+<!-- ## Chez Aston -->
 
-## Chicken Delight
+<!-- ## Chicken Delight -->
 
-## Chipotle Mexican Grill
+<!-- ## Chipotle Mexican Grill -->
 
-## Chick-fil-A
+<!-- ## Chick-fil-A -->
 
-## Cora
+<!-- ## Cora -->
 
-## Cinnabon
+<!-- ## Cinnabon -->
 
-## Coffee Time
+<!-- ## Coffee Time -->
 
-## Country Style
+<!-- ## Country Style -->
 
 ## Diary Queen
 
@@ -90,7 +90,7 @@ I had dinner at Denny's once. It actually gave me a more of a cinematic-like Ame
 
 Anyways, the food was okay. I cannot remember what I ordered, but surely I felt nothing was really worth the price. It was with the price of a meal at a diner, but at fastfood quality. Honestly not recommended if you value your money.
 
-## Dixie Lee Fried Chicken
+<!-- ## Dixie Lee Fried Chicken -->
 
 ## Domino's Pizza
 
@@ -100,25 +100,25 @@ The pinnacle of cheap pizza. I have had it so many times. If, for any event, peo
 
 Menu is diverse, price is cheap, quality is okay enough. That is all I have to say. King of the cheap pizza segment.
 
-## Edo Japan
+<!-- ## Edo Japan -->
 
-## Extreme Pita
+<!-- ## Extreme Pita -->
 
-## East Side Mario's
+<!-- ## East Side Mario's -->
 
-## Five Guys
+<!-- ## Five Guys -->
 
-## Fryer's
+<!-- ## Fryer's -->
 
-## Freshii
+<!-- ## Freshii -->
 
-## Firehouse Subs
+<!-- ## Firehouse Subs -->
 
-## Fat Burger
+<!-- ## Fat Burger -->
 
-## Greco Pizza
+<!-- ## Greco Pizza -->
 
-## Godfather's Pizza
+<!-- ## Godfather's Pizza -->
 
 ## Harvey's
 
@@ -126,13 +126,13 @@ Menu is diverse, price is cheap, quality is okay enough. That is all I have to s
 
 I ate at Harvey's once or twice before, and I must say that except for the fact that it's a Canadian chain, nothing felt special. Not even one item, and not the pricing of eny item either. Like heck, even A&W has the famous root beer that got the whole country of Canada go crazy. If it is not for the lack of competition in the Canadian market, I think Harvey's wouldn't have been that big of a chain. It is a place that, if you are near by, and hungry, and you are like "meh, whatever", then you come in. Not bad, not good, nothing special.
 
-## Hero Certified Burgers
+<!-- ## Hero Certified Burgers -->
 
-## IHOP
+<!-- ## IHOP -->
 
-## Jimmy the Greek
+<!-- ## Jimmy the Greek -->
 
-## Jimmy John's Subs
+<!-- ## Jimmy John's Subs -->
 
 ## Jollibee
 
@@ -156,98 +156,104 @@ The last time was in Toronto, at a food court. This time was the most impressive
 
 Overall, I think KFC in North America is not good. The menu is very limited and nothing was really new. The pricing is fine, but I'm not quite sure if it is a good value for the food. I mean, the food quality, at best, is a hit or miss, and even that is also a sign of the crappy quality control across KFC branches. After some digging, it seems like KFC in NA has been in this spiral downwards for a decade or two. On the other hand KFC in other places (like Japan) is very popular for their quality and creative menu, so my advice is try KFC, but not in NA.
 
-## Krispy Kreme Donuts
+Update: I gave it one more chance in Waterloo. The protion was enormous, but chicken was dry, seasoning was okay, and the fries were wimpy. Again, KFC in NA is a hit or miss.
 
-## Kelsey Original Roadhouse
+<!-- ## Krispy Kreme Donuts -->
 
-## Lafleur Restaurants
+<!-- ## Kelsey Original Roadhouse -->
 
-## Little Ceasars
+<!-- ## Lafleur Restaurants -->
 
-## Manchu Wok
+<!-- ## Little Ceasars -->
+
+<!-- ## Manchu Wok -->
 
 ## Mary Brown's Chicken
 
+![Mary Brown's Chicken](../../../assets/fastfood_chains/Mary_Browns.png)
+
+I have never heard of the chain until I set foot in Waterloo, so I have no expectation. It seemed to have a bigger focus on the **chicken burger** than other chicken chains like KFC or Popeyes, and it was having a buy one get one promotion, so that was what I ordered. The quality was top notch. It felt really full, with a juicy piece of chicken that was adequately seasoned. The best part was the piece of pickle - it was placed on the side instead of in the hamburger! This gave the customer the freedom to either have it or not, because many people (including myself) really hate the pickle. This small gesture left a really good impression.
+
 ## McDonald's
 
-## Mrs. Fields
+<!-- ## Mrs. Fields -->
 
-## Marble Slab Creamery
+<!-- ## Marble Slab Creamery -->
 
-## Mr.Sub
+<!-- ## Mr.Sub -->
 
-## Mucho Burrito
+<!-- ## Mucho Burrito -->
 
-## Montana's BBQ & Bar
+<!-- ## Montana's BBQ & Bar -->
 
-## Milestones Grill & Bar
+<!-- ## Milestones Grill & Bar -->
 
 ## New York Fries
 
-## Orange Julius
+<!-- ## Orange Julius -->
 
 ## Panda Express
 
 ## Papa John's
 
-## Pita Pit
+<!-- ## Pita Pit -->
 
-## Pizza Pizza
+<!-- ## Pizza Pizza -->
 
 ## Pizza Hut
 
-## Pizza Nova
+<!-- ## Pizza Nova -->
 
-## Panera Bread
+<!-- ## Panera Bread -->
 
 ## Pizza 73
 
 ## Popeyes Louisiana Kitchen
 
-## Quiznos Subs
+<!-- ## Quiznos Subs -->
 
-## Qdoba
+<!-- ## Qdoba -->
 
-## Robin's Donuts
+<!-- ## Robin's Donuts -->
 
-## Second Cup
+<!-- ## Second Cup -->
 
-## Smitty's
+<!-- ## Smitty's -->
 
-## St-Hubert
+<!-- ## St-Hubert -->
 
-## Shoeless Joe's
+<!-- ## Shoeless Joe's -->
 
 ## Subway
 
-## Swiss Chalet
+<!-- ## Swiss Chalet -->
 
-## St Louis
+<!-- ## St Louis -->
 
-## Shake Shack
+<!-- ## Shake Shack -->
 
-## Starbucks Coffee
+<!-- ## Starbucks Coffee -->
 
 ## Taco Bell
 
-## Taco del Mar
+<!-- ## Taco del Mar -->
 
-## Taco Time
+<!-- ## Taco Time -->
 
 ## Thai Express
 
 ## Tim Hortons
 
-## The Keg
+<!-- ## The Keg -->
 
-## Valentine
+<!-- ## Valentine -->
 
 ## Wendy's
 
-## White Spot
+<!-- ## White Spot -->
 
-## Wild Wing
+<!-- ## Wild Wing -->
 
-## Wimpy's Diner
+<!-- ## Wimpy's Diner -->
 
-## Yogen Fruz
+<!-- ## Yogen Fruz -->
